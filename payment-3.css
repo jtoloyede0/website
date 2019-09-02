@@ -1,0 +1,21 @@
+body, html {
+	font-weight: lighter;
+	background: rgba(112, 112, 112, 1);
+	background-image: url(https://res.cloudinary.com/jtoloyede/image/upload/v1567365554/HNG%20Internship/Johndee_vaz6wm.jpg);
+	background-size: 100%;
+	box-sizing: border-box;
+	height: auto;
+	max-width: 100%;
+}
+
+.msg {
+	width: 40%;
+	float: right;
+	margin-top: 15%;
+	margin-right: 10%;
+	position: relative;
+	color: white
+}
+	
+
+
